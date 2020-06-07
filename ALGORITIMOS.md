@@ -15,17 +15,17 @@
 - (https://www.youtube.com/watch?v=oDqjPvD54Ss)
 
 ### Dijkstra
-> https://www.youtube.com/watch?v=ovkITlgyJ2s  
-> https://www.youtube.com/watch?v=gpmM0p9feV4
+- https://www.youtube.com/watch?v=ovkITlgyJ2s  
+- https://www.youtube.com/watch?v=gpmM0p9feV4
 
 ### Backtracking
-> Cria combinação recursivamente
-> Usos: bruteforce, sudoku
-> https://www.youtube.com/watch?v=DKCbsiDBN6c
+- Cria combinação recursivamente
+- Usos: bruteforce, sudoku
+- https://www.youtube.com/watch?v=DKCbsiDBN6c
 
 ### DP - Programação Dinâmica
-> Recursivo / Avançado
-> Tem que ser adaptado para cada caso
-> O tempo de execução cai pra casa do caralho
-> https://www.youtube.com/watch?v=SJSRKnxu9Ig
-> https://www.youtube.com/watch?v=eLqKBivIxJI
+- Recursivo / Avançado
+- Tem que ser adaptado para cada caso
+- O tempo de execução cai pra casa do caralho
+- https://www.youtube.com/watch?v=SJSRKnxu9Ig
+- https://www.youtube.com/watch?v=eLqKBivIxJI
