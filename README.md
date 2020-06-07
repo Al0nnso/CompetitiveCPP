@@ -1,11 +1,14 @@
 # OBI-2020
 Study notes for the "Olimpíada Brasileira de Informática" ( OBI 2020 )  
 Coloquem mais conteúdo se quiserem
+- [Estrutura de Dados](/DADOS.md)
+- [Algoritimos](/ALGORITIMOS.md)
+- [Exercicios](/EXERCICIOS.md)
 
 # Estudos
 #### Melhor material para treino (da UNICAMP)   
-https://tinyurl.com/XXXXXXXX  
-( As atividades estão no [EXERCICIOS.md](/EXERCICIOS.md) )  
+As atividades estão em [EXERCICIOS](/EXERCICIOS.md)  
+~~https://tinyurl.com/XXXXXXXX~~
 ~~( pelo amor de deus não fodam a tabela! )~~
 
 # Websites
