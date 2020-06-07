@@ -4,6 +4,7 @@
 - https://www.youtube.com/watch?v=o_9flxMVyyQ
 
 ### DFS e BFS (Mais usado)
+- Usados para encontrar caminhos (melhor / maior / grupos)
 - https://www.youtube.com/watch?v=jYwonGls6RQ
 #### Busca em profundidade
 - Deph First Search
