@@ -1,7 +1,7 @@
 # OBI-2020
 Study notes for the "Olimpíada Brasileira de Informática" ( OBI 2020 )  
 Coloquem mais conteúdo se quiserem
-- [Estrutura de Dados](dados/README.md)
+- [Estrutura de Dados](/dados/)
 - [Algoritimos](/ALGORITIMOS.md)
 - [Exercicios](/EXERCICIOS.md)
 
