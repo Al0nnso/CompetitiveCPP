@@ -1,0 +1,17 @@
+# Exercicios
+## Level 1
+( Pilha - Fila - Recursão - Backtrack )  
+[Street Parade](https://www.spoj.com/problems/STPAR/)  
+[Expressões](https://br.spoj.com/problems/EXPRES11/)  
+[MMASS](https://www.spoj.com/problems/MMASS/)  
+[ACOES1MG](https://br.spoj.com/problems/ACOES1MG/)  
+[Fibonacci, Quantas Chamadas?](https://www.urionlinejudge.com.br/judge/pt/problems/view/1029)  
+[Meme Wars](http://codeforces.com/gym/101879/problem/J)  
+[BNUMBERS](https://www.spoj.com/problems/BNUMBERS/)  
+[Dreamoon and WiFi](https://codeforces.com/problemset/problem/476/B)  
+[ASSALTMG](https://br.spoj.com/problems/ASSALTMG/)  
+[JUNINA](https://br.spoj.com/problems/JUNINA/)  
+[HISTOGRA](https://www.spoj.com/problems/HISTOGRA/)  
+[BRCKTS2](https://www.spoj.com/problems/BRCKTS2/)  
+[Torre](https://neps.academy/problem/45)  
+[Planting Trees](https://open.kattis.com/problems/plantingtrees)  
