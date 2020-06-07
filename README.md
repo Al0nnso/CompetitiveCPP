@@ -2,8 +2,8 @@
 Study notes for the "Olimpíada Brasileira de Informática" ( OBI 2020 )  
 Coloquem mais conteúdo se quiserem
 
-# Estudos UNICAMP
-#### Melhor material para treino  
+# Estudos
+#### Melhor material para treino (da UNICAMP)   
 https://tinyurl.com/obi2019pj  
 ( pelo amor de deus não fodam a tabela! )
 
