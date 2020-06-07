@@ -15,7 +15,7 @@
 - (Fila / queue)
 - (https://www.youtube.com/watch?v=oDqjPvD54Ss)
 
-### Dijkstra
+### Dijkstra (Bônus)
 - https://www.youtube.com/watch?v=ovkITlgyJ2s  
 - https://www.youtube.com/watch?v=gpmM0p9feV4
 
