@@ -59,9 +59,7 @@ VETOR.swap(VECTOR2);
 VETOR.insert( VETOR.begin() + 1 , 888 );
 // inserting at the size - 1:  
 VETOR.insert( VETOR.end() - 1 , 888 );
-```
 
-```cpp
 // Remove position (the last - 1):  
 VETOR.erase(VETOR.end() - 1);
 ```
