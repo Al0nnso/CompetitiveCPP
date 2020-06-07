@@ -6,13 +6,13 @@
 ### DFS e BFS (Mais usado)
 - Usados para encontrar caminhos (melhor / maior / grupos)
 - https://www.youtube.com/watch?v=jYwonGls6RQ
-#### Busca em profundidade
+#### Busca em profundidade - DFS
 - Deph First Search
-- DFS (Recursivo / melhor)
+- (Recursivo / melhor)
 - (https://www.youtube.com/watch?v=7fujbpJ0LB4)
-#### Busca em largura
+#### Busca em largura - BFS
 - Breadth First Search
-- BFS (Fila / queue)
+- (Fila / queue)
 - (https://www.youtube.com/watch?v=oDqjPvD54Ss)
 
 ### Dijkstra
