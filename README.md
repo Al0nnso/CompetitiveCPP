@@ -5,7 +5,7 @@ Coloquem mais conteúdo se quiserem
 # Estudos
 #### Melhor material para treino (da UNICAMP)   
 https://tinyurl.com/XXXXXXXX  
-( As atividades estão no [EXERCICIOS.md]() )  
+( As atividades estão no [EXERCICIOS.md](/EXERCICIOS.md) )  
 ~~( pelo amor de deus não fodam a tabela! )~~
 
 # Websites
