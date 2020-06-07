@@ -57,7 +57,7 @@
 [Arpa's Weak](http://codeforces.com/problemset/problem/741/B)  
 
 ## Level 4
-( Vetor de marcação - Somas Parciais )  
+( Árvore )  
 [Cidades](https://olimpiada.ic.unicamp.br/pratique/p1/2017/f3/visita/)  
 [Móbile](https://olimpiada.ic.unicamp.br/pratique/p2/2007/f1/mobile/)  
 [Família Real](http://www.codcad.com/problem/175)  
@@ -72,3 +72,24 @@
 [Connecting Universities](https://codeforces.com/problemset/problem/700/B)  
 [Opening Ceremony](https://ncpc14.kattis.com/problems/ceremony)  
 [Janela](https://olimpiada.ic.unicamp.br/pratique/p2/2013/f2/janela/)  
+
+## Level 5
+( Vetor de marcação - Somas Parciais )  
+[Notas](https://neps.academy/problem/495)  
+[Tacos de Bilhar](https://neps.academy/problem/54)  
+[Botas Trocadas](https://neps.academy/problem/19)  
+[Quebra-cabeça](https://neps.academy/problem/70)  
+[Fila](https://neps.academy/problem/67)  
+[Banda](https://neps.academy/problem/560)  
+[Pesca](https://neps.academy/problem/530)  
+[Plantação](https://neps.academy/problem/507)  
+[Kuriyama](https://codeforces.com/problemset/problem/433/B)  
+[Quadradinho de 8](https://neps.academy/problem/508)  
+[Troca](https://neps.academy/problem/365)  
+[Segredo do cofre](https://neps.academy/problem/16)  
+[The Two Routes](https://codeforces.com/problemset/problem/601/A)  
+[Peça Perdida](https://br.spoj.com/problems/PECA7/)  
+[Rodovia](https://neps.academy/problem/501)  
+[Fita Colorida](https://neps.academy/problem/49)  
+[Coral Perfeito](https://www.urionlinejudge.com.br/judge/pt/problems/view/1225)  
+[Chuva](https://neps.academy/problem/58)  
