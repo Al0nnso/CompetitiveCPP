@@ -7,7 +7,7 @@ Um array redimensionável com funções adicionais
 // CRIAR
 vector<int> VETOR;
 //com um tamanho predefinido
-vector<int> VETOR(5);
+vector<int> VETOR[5];
 ```
 
 ## Funções
