@@ -10,6 +10,14 @@ vector<int> VETOR;
 vector<int> VETOR[5];
 ```
 
+
+```cpp
+// CRIAR COM UM VALOR PREDEFINIDO
+vector<int> VETOR;
+// Define o vector com um tamanho de 10 todos como false
+VETOR.assign(10,false)
+```
+
 ## Funções
 
 ```cpp
