@@ -8,8 +8,6 @@ Coloquem mais conteúdo se quiserem
 # Estudos
 #### Melhor material para treino (da UNICAMP)   
 As atividades estão em [EXERCICIOS](/EXERCICIOS.md)  
-~~( pelo amor de deus não fodam a tabela! )~~  
-~~https://tinyurl.com/XXXXXXXX~~
 
 # Websites
 - https://olimpiada.ic.unicamp.br/pratique/
