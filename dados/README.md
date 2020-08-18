@@ -1,7 +1,7 @@
 # Estrutura de dados
 `import <bits/stdc++.h>`
 
-- [Vector](VECTOR.md) (melhor)
+- [Vetor](VECTOR.md) (Vector)
 - [Pilha](PILHA.md) (stack)
 - [Fila](FILA.md) (queue)
 
